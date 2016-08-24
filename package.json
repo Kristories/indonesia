@@ -1,19 +1,30 @@
 {
   "name": "indonesia",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Territories of Indonesia",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kristories/indonesia.git"
   },
   "keywords": [
-    "indonesia"
+    "indonesia",
+    "province",
+    "city",
+    "regency"
   ],
   "author": "Wahyu Kristianto <w.kristories@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Kristories/indonesia/issues"
   },
-  "homepage": "https://github.com/Kristories/indonesia#readme"
+  "homepage": "https://github.com/Kristories/indonesia#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "camo": "^0.12.2",
+    "nedb": "^1.8.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {}
 }
