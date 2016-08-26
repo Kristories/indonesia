@@ -18,6 +18,7 @@ exports.getProvinces = (callback) => {
   connect(uriConnection).then(function(db) {
     var res   = [];
     database  = db;
+
     ProvinceModel.find({}, { populate : false }).then(function(p) {
       async.eachOf(p, function(value, key, cb) {
         res.push(_.pick(value, 'name', 'iso'));
@@ -68,6 +69,24 @@ exports.getProvince = (name, withCities, callback) => {
       else {
         callback(_.pick(p, 'name', 'iso'));
       }
+    });
+  }).catch(err => {
+    callback(err);
+  });
+};
+
+exports.searchProvince = (name, callback) => {
+  connect(uriConnection).then(function(db) {
+    var res     = [];
+    database    = db;
+
+    ProvinceModel.find({ name : new RegExp(name, 'i') }, { populate : false }).then(function(p) {
+      async.eachOf(p, function(value, key, cb) {
+        res.push(_.pick(value, 'name', 'iso'));
+        cb();
+      }, function(err) {
+        callback(_.sortBy(res, 'name'));
+      });
     });
   }).catch(err => {
     callback(err);
