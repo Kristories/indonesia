@@ -1,5 +1,12 @@
 # Indonesia
 
+> Territories of Indonesia
+
+- **34** Provinces
+- **416** Regencies
+- **98** Cities
+- **514** Regencies and Cities
+
 ## Installation
 
 ```js
