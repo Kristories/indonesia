@@ -75,6 +75,12 @@ exports.getProvince = (name, withCities, callback) => {
   });
 };
 
+/**
+ * Search province
+ * @param  {String}   name
+ * @param  {Function} callback
+ * @return {Array}
+ */
 exports.searchProvince = (name, callback) => {
   connect(uriConnection).then(function(db) {
     var res     = [];
