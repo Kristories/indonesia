@@ -1,5 +1,7 @@
 {"name":"Kabupaten Tangerang","province":"1yWpN0ukZBWAve4Y","_id":"4xYcV3YEQptPH0oG"}
 {"name":"Kota Denpasar","province":"IBTvl4K0KGrQLGmW","_id":"8933o97TNjEgb0Qb"}
+{"name":"Kota Administrasi Jakarta Pusat","province":"uo4wk5J9IK3FVLkW","_id":"8ZULUxRplsCRebyO"}
+{"name":"Kabupaten Administrasi Kepulauan Seribu","province":"uo4wk5J9IK3FVLkW","_id":"9qZp6uXEo6IEsUaY"}
 {"name":"Kabupaten Seluma","province":"0flTKzx1RKDdWt35","_id":"CnAO0zEkH0yCb7hp"}
 {"name":"Kabupaten Pandeglang","province":"1yWpN0ukZBWAve4Y","_id":"DtrKQij9t8FQrHFj"}
 {"name":"Kabupaten Mukomuko","province":"0flTKzx1RKDdWt35","_id":"F3gg7WdFUTcxmD81"}
@@ -22,9 +24,11 @@
 {"name":"Kabupaten Lebak","province":"1yWpN0ukZBWAve4Y","_id":"To0AnGOA8UQ0EJBH"}
 {"name":"Kabupaten Bener Meriah","province":"Mzl7dxVfJALbbdCt","_id":"ToLgXLhqo4kHWogv"}
 {"name":"Kota Sabang","province":"Mzl7dxVfJALbbdCt","_id":"U2A7A2nHnorvepwu"}
+{"name":"Kota Administrasi Jakarta Utara","province":"uo4wk5J9IK3FVLkW","_id":"UQFv8aqv8jf74Wd1"}
 {"name":"Kabupaten Aceh Selatan","province":"Mzl7dxVfJALbbdCt","_id":"UtGTALqMErggNitE"}
 {"name":"Kabupaten Simeulue","province":"Mzl7dxVfJALbbdCt","_id":"Uu9CaTTXSEsvsV49"}
 {"name":"Kabupaten Tabanan","province":"IBTvl4K0KGrQLGmW","_id":"VZG1K0fQuEdchKLS"}
+{"name":"Kota Administrasi Jakarta Barat","province":"uo4wk5J9IK3FVLkW","_id":"W1PifKvLae19I7rk"}
 {"name":"Kabupaten Aceh Besar","province":"Mzl7dxVfJALbbdCt","_id":"XB6qM1BexHVJfQ9x"}
 {"name":"Kabupaten Aceh Utara","province":"Mzl7dxVfJALbbdCt","_id":"ZagchTUBJ5qjSWGS"}
 {"name":"Kabupaten Aceh Timur","province":"Mzl7dxVfJALbbdCt","_id":"aZyqfJgv76ZCBgrW"}
@@ -37,6 +41,7 @@
 {"name":"Kabupaten Aceh Singkil","province":"Mzl7dxVfJALbbdCt","_id":"diTnzi9WtaeNeTBA"}
 {"name":"Kabupaten Nagan Raya","province":"Mzl7dxVfJALbbdCt","_id":"exaZ6U2OaAkHowN7"}
 {"name":"Kabupaten Pohuwato","province":"dvWTKr1YcHGYUxnX","_id":"fO6Kj0Iep22q0Q6B"}
+{"name":"Kota Administrasi Jakarta Timur","province":"uo4wk5J9IK3FVLkW","_id":"g3J6UuvtlMziauME"}
 {"name":"Kabupaten Pidie Jaya","province":"Mzl7dxVfJALbbdCt","_id":"gOEwyyIkTjemU40t"}
 {"name":"Kota Langsa","province":"Mzl7dxVfJALbbdCt","_id":"hbKtKf7PHrzZxREw"}
 {"name":"Kota Subulussalam","province":"Mzl7dxVfJALbbdCt","_id":"iMzJNgVHNJoaljxO"}
@@ -49,6 +54,7 @@
 {"name":"Kabupaten Aceh Tengah","province":"Mzl7dxVfJALbbdCt","_id":"pcuN0CdOMjUrIro7"}
 {"name":"Kabupaten Boalemo","province":"dvWTKr1YcHGYUxnX","_id":"rn47nIm7PitnDDVP"}
 {"name":"Kota Lhokseumawe","province":"Mzl7dxVfJALbbdCt","_id":"sivI6QQN6EEy3dKo"}
+{"name":"Kota Administrasi Jakarta Selatan","province":"uo4wk5J9IK3FVLkW","_id":"t8pLY2xFYF1ZsfGy"}
 {"name":"Kabupaten Kaur","province":"0flTKzx1RKDdWt35","_id":"uCLeoOS5ug4UITQN"}
 {"name":"Kabupaten Badung","province":"IBTvl4K0KGrQLGmW","_id":"uMesCjG7brgIuVlU"}
 {"name":"Kabupaten Pidie","province":"Mzl7dxVfJALbbdCt","_id":"wNXZnO8m72jiloHt"}
