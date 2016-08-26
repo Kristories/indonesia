@@ -31,11 +31,11 @@ indonesia.getProvince('aceh', true, function(province){
 #### Province
 - [x] Get all provinces
 - [ ] Search province
-- [ ] Get province by name
-- [ ] Get province by name (include cities / regencies)
+- [x] Get province by name
+- [x] Get province by name (include cities / regencies)
   - [x] Aceh
-  - [ ] Bali
-  - [ ] Banten
+  - [x] Bali
+  - [x] Banten
   - [ ] Bengkulu
   - [ ] Gorontalo
   - [ ] Jakarta
