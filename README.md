@@ -1,5 +1,12 @@
 # Indonesia
 
+> Territories of Indonesia
+
+- **34** Provinces
+- **416** Regencies
+- **98** Cities
+- **514** Regencies and Cities
+
 ## Installation
 
 ```js
@@ -31,42 +38,42 @@ indonesia.getProvince('aceh', true, function(province){
 #### Province
 - [x] Get all provinces
 - [ ] Search province
-- [ ] Get province by name
-- [ ] Get province by name (include cities / regencies)
+- [x] Get province by name
+- [x] Get province by name (include cities / regencies)
   - [x] Aceh
-  - [ ] Bali
-  - [ ] Banten
-  - [ ] Bengkulu
-  - [ ] Gorontalo
-  - [ ] Jakarta
-  - [ ] Jambi
-  - [ ] Jawa Barat
-  - [ ] Jawa Tengah
-  - [ ] Jawa Timur
-  - [ ] Kalimantan Barat
-  - [ ] Kalimantan Selatan
-  - [ ] Kalimantan Tengah
-  - [ ] Kalimantan Timur
-  - [ ] Kalimantan Utara
-  - [ ] Kepulauan Bangka Belitung
-  - [ ] Kepulauan Riau
-  - [ ] Lampung
-  - [ ] Maluku
-  - [ ] Maluku Utara
-  - [ ] Nusa Tenggara Barat
-  - [ ] Nusa Tenggara Timur
-  - [ ] Papua
-  - [ ] Papua Barat
-  - [ ] Riau
-  - [ ] Sulawesi Barat
-  - [ ] Sulawesi Selatan
-  - [ ] Sulawesi Tengah
-  - [ ] Sulawesi Tenggara
-  - [ ] Sulawesi Utara
-  - [ ] Sumatera Barat
-  - [ ] Sumatera Selatan
-  - [ ] Sumatera Utara
-  - [ ] Yogyakarta
+  - [x] Bali
+  - [x] Banten
+  - [x] Bengkulu
+  - [x] Gorontalo
+  - [x] Jakarta
+  - [x] Jambi
+  - [x] Jawa Barat
+  - [x] Jawa Tengah
+  - [x] Jawa Timur
+  - [x] Kalimantan Barat
+  - [x] Kalimantan Selatan
+  - [x] Kalimantan Tengah
+  - [x] Kalimantan Timur
+  - [x] Kalimantan Utara
+  - [x] Kepulauan Bangka Belitung
+  - [x] Kepulauan Riau
+  - [x] Lampung
+  - [x] Maluku
+  - [x] Maluku Utara
+  - [x] Nusa Tenggara Barat
+  - [x] Nusa Tenggara Timur
+  - [x] Papua
+  - [x] Papua Barat
+  - [x] Riau
+  - [x] Sulawesi Barat
+  - [x] Sulawesi Selatan
+  - [x] Sulawesi Tengah
+  - [x] Sulawesi Tenggara
+  - [x] Sulawesi Utara
+  - [x] Sumatera Barat
+  - [x] Sumatera Selatan
+  - [x] Sumatera Utara
+  - [x] Yogyakarta
 
 #### City / Regency
 - [ ] Get all cities / regencies
