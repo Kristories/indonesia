@@ -23,6 +23,11 @@ indonesia.getProvinces(function(provinces){
   console.log(provinces);
 });
 
+// Search province
+indonesia.searchProvince(function(provinces){
+  console.log(provinces);
+});
+
 // Get province by name
 indonesia.getProvince('aceh', function(province){
   console.log(province);
@@ -37,7 +42,7 @@ indonesia.getProvince('aceh', true, function(province){
 ## To-do
 #### Province
 - [x] Get all provinces
-- [ ] Search province
+- [x] Search province
 - [x] Get province by name
 - [x] Get province by name (include cities / regencies)
   - [x] Aceh
