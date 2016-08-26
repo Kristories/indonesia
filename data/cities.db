@@ -21,6 +21,7 @@
 {"name":"Kabupaten Penajam Paser Utara","province":"7hQevGl17Tst02Cg","_id":"3D5CF0YSHMPnCD7P"}
 {"name":"Kabupaten Barito Timur","province":"KujF9SPaBI2ErKcO","_id":"3Jq1RkkXeI8ZGNMO"}
 {"name":"Kabupaten Keerom","province":"1EZPLzKdwsbn2vgu","_id":"3L1U15El7kVTIKtq"}
+{"name":"Kabupaten Kepulauan Talaud","province":"3xNRvI0qtnHJVC9X","_id":"3NqOxtO5e1gLcsqA"}
 {"name":"Kabupaten Bantaeng","province":"w2HI3iuwJDQu9ZRc","_id":"3hn9uXze00aVGCLS"}
 {"name":"Kabupaten Batang","province":"SnCJ0s1dVIO7tL0a","_id":"3r2m1nee1hlii3VA"}
 {"name":"Kabupaten Indramayu","province":"zQHlUSQECqDHeWp4","_id":"3xO9cggRtG6kP5zU"}
@@ -95,6 +96,7 @@
 {"name":"Kabupaten Ngawi","province":"B5HEAdevrS8b4eDL","_id":"EVJcMk9Pbe60VGY4"}
 {"name":"Kabupaten Kuningan","province":"zQHlUSQECqDHeWp4","_id":"EixAxHDmwygeGsaq"}
 {"name":"Kota Semarang","province":"SnCJ0s1dVIO7tL0a","_id":"Eyw6VGP1voCJ9Ict"}
+{"name":"Kota Tomohon","province":"3xNRvI0qtnHJVC9X","_id":"F2WxpHUdhpNB0XCd"}
 {"name":"Kabupaten Kapuas Hulu","province":"Ny7vFZL3WnKDm4cp","_id":"F3IGU3FKnRFoq7rQ"}
 {"name":"Kabupaten Sampang","province":"B5HEAdevrS8b4eDL","_id":"F3Ua9nuwvG7nOmI7"}
 {"name":"Kabupaten Mukomuko","province":"0flTKzx1RKDdWt35","_id":"F3gg7WdFUTcxmD81"}
@@ -111,6 +113,8 @@
 {"name":"Kabupaten Karangasem","province":"IBTvl4K0KGrQLGmW","_id":"Gs7IFJkXHkF6MuBL"}
 {"name":"Kabupaten Jembrana","province":"IBTvl4K0KGrQLGmW","_id":"H2KlrvWdtTyUZcbZ"}
 {"name":"Kabupaten Ende","province":"Er7Kcv7h62pAMXS3","_id":"HGvQQ69pUfVbIoau"}
+{"name":"Kabupaten Kepulauan Sangihe","province":"3xNRvI0qtnHJVC9X","_id":"HHLmkp2w2ZQVRZ00"}
+{"name":"Kabupaten Bolaang Mongondow Timur","province":"3xNRvI0qtnHJVC9X","_id":"HKrlknPGi6rIbyHK"}
 {"name":"Kabupaten Tebo","province":"6Wn6e2j5QbrsL0QT","_id":"HeQSMqlhDcfYaeSH"}
 {"name":"Kota Serang","province":"1yWpN0ukZBWAve4Y","_id":"HukzenUuvyw0N8xj"}
 {"name":"Kota Sorong","province":"zVQYSVPdHi0DBOVq","_id":"I079rtID7WHrgsIm"}
@@ -149,6 +153,7 @@
 {"name":"Kabupaten Jayapura","province":"1EZPLzKdwsbn2vgu","_id":"LSNGwEaEc2Pqs9yB"}
 {"name":"Kabupaten Bireuen","province":"Mzl7dxVfJALbbdCt","_id":"LaMLCeaR15WfpUdP"}
 {"name":"Kota Surakarta","province":"SnCJ0s1dVIO7tL0a","_id":"Ljy3pl3GHfAKQF9Q"}
+{"name":"Kabupaten Minahasa Utara","province":"3xNRvI0qtnHJVC9X","_id":"MC7bNuK33yzvTgbM"}
 {"name":"Kabupaten Tanah Bumbu","province":"9vb4axrAymIe070W","_id":"MEqBWF5EcwdACAHT"}
 {"name":"Kabupaten Raja Ampat","province":"zVQYSVPdHi0DBOVq","_id":"MKaxoL1XOw8tAGUi"}
 {"name":"Kabupaten Kepulauan Meranti","province":"9dxc9NRalXxZetmL","_id":"MPz3q8YIb2YyevdM"}
@@ -167,6 +172,7 @@
 {"name":"Kabupaten Muna Barat","province":"AdlTUE0zejE4Gg7q","_id":"OtSzICIUj244aPru"}
 {"name":"Kabupaten Lebong","province":"0flTKzx1RKDdWt35","_id":"PFGDbUXK4FsoUxFE"}
 {"name":"Kabupaten Buton Tengah","province":"AdlTUE0zejE4Gg7q","_id":"PSQNgoQtltezumjY"}
+{"name":"Kabupaten Minahasa Tenggara","province":"3xNRvI0qtnHJVC9X","_id":"PTKmvyz3NexTkXH5"}
 {"name":"Kabupaten Alor","province":"Er7Kcv7h62pAMXS3","_id":"PgCUFjxWrlCZHttT"}
 {"name":"Kota Mojokerto","province":"B5HEAdevrS8b4eDL","_id":"Q2gGwHmGrWF5QAh2"}
 {"name":"Kabupaten Bengkulu Selatan","province":"0flTKzx1RKDdWt35","_id":"QDOPPZsW0uNjbJyn"}
@@ -184,6 +190,7 @@
 {"name":"Kabupaten Paser","province":"7hQevGl17Tst02Cg","_id":"RO3Q45dBjvtHpJfS"}
 {"name":"Kabupaten Sanggau","province":"Ny7vFZL3WnKDm4cp","_id":"RO5TwN5l4TkrKCaH"}
 {"name":"Kabupaten Gresik","province":"B5HEAdevrS8b4eDL","_id":"RRquwzGvkueHpZAp"}
+{"name":"Kota Manado","province":"3xNRvI0qtnHJVC9X","_id":"RYq7P0wGnSiBRTSL"}
 {"name":"Kabupaten Ngada","province":"Er7Kcv7h62pAMXS3","_id":"RdQo16hV0RJMkJEt"}
 {"name":"Kota Kupang","province":"Er7Kcv7h62pAMXS3","_id":"RvwtCfNRBwfyES9h"}
 {"name":"Kabupaten Barito Selatan","province":"KujF9SPaBI2ErKcO","_id":"S0vElH3teNw6schv"}
@@ -218,12 +225,14 @@
 {"name":"Kota Banjarbaru","province":"9vb4axrAymIe070W","_id":"VL4CiDL9SzWSXc83"}
 {"name":"Kabupaten Nunukan","province":"kuD8fx83qrogjOUe","_id":"VXA1ThUdr60yZMsn"}
 {"name":"Kabupaten Tabanan","province":"IBTvl4K0KGrQLGmW","_id":"VZG1K0fQuEdchKLS"}
+{"name":"Kabupaten Minahasa","province":"3xNRvI0qtnHJVC9X","_id":"VbFenYsuTPUFOyww"}
 {"name":"Kabupaten Purwakarta","province":"zQHlUSQECqDHeWp4","_id":"ViLzK61RJPmjyHWi"}
 {"name":"Kabupaten Lingga","province":"MPjup8MRLe7eAFtM","_id":"VsoKqPJkooLj6XTf"}
 {"name":"Kabupaten Tana Toraja","province":"w2HI3iuwJDQu9ZRc","_id":"Vtn1xCabSD0nUMOl"}
 {"name":"Kabupaten Parigi Moutong","province":"AdlTUE0zejE4Gg7q","_id":"VvjaGdrLZDG6qkfw"}
 {"name":"Kota Administrasi Jakarta Barat","province":"uo4wk5J9IK3FVLkW","_id":"W1PifKvLae19I7rk"}
 {"name":"Kabupaten Pringsewu","province":"Ji7Y783A3K3pmsXn","_id":"W1Z1ZhdKO3v6AwFA"}
+{"name":"Kabupaten Kepulauan Siau Tagulandang Biaro","province":"3xNRvI0qtnHJVC9X","_id":"WSucLEibytXl2Tcy"}
 {"name":"Kota Pangkal Pinang","province":"IWFiXYxpEaTR9Ied","_id":"WVX6NMgkMXWlIh2G"}
 {"name":"Kabupaten Bandung","province":"zQHlUSQECqDHeWp4","_id":"WZXucQ7ah1EJ6hAs"}
 {"name":"Kabupaten Waropen","province":"1EZPLzKdwsbn2vgu","_id":"Wtl77Vhhg8Gh0viT"}
@@ -231,6 +240,7 @@
 {"name":"Kabupaten Probolinggo","province":"B5HEAdevrS8b4eDL","_id":"XGEPST7HsetXZnO4"}
 {"name":"Kabupaten Wonosobo","province":"SnCJ0s1dVIO7tL0a","_id":"XKPNz7qFRdNtHMfp"}
 {"name":"Kabupaten Jombang","province":"B5HEAdevrS8b4eDL","_id":"XOoVM93Qzq4nDcug"}
+{"name":"Kota Bitung","province":"3xNRvI0qtnHJVC9X","_id":"XzX6199E95yk13SH"}
 {"name":"Kabupaten Magetan","province":"B5HEAdevrS8b4eDL","_id":"Y83AilTqQYQjgTPm"}
 {"name":"Kabupaten Lombok Barat","province":"G0DRddtZHYqiT7Dx","_id":"YC81Zp2C3V45tRnD"}
 {"name":"Kabupaten Mamuju","province":"YZOrGlNOk2xN3Fsg","_id":"YJjdjbzyP1GYKmOa"}
@@ -246,6 +256,7 @@
 {"name":"Kabupaten Intan Jaya","province":"1EZPLzKdwsbn2vgu","_id":"aMlihy5B6BuaQtnP"}
 {"name":"Kabupaten Aceh Timur","province":"Mzl7dxVfJALbbdCt","_id":"aZyqfJgv76ZCBgrW"}
 {"name":"Kota Pontianak","province":"Ny7vFZL3WnKDm4cp","_id":"abIYypqbMl9uLxcm"}
+{"name":"Kabupaten Minahasa Selatan","province":"3xNRvI0qtnHJVC9X","_id":"anPzMTYL9opQDNMo"}
 {"name":"Kabupaten Luwu Timur","province":"w2HI3iuwJDQu9ZRc","_id":"aoN8x4pybAhaZbHp"}
 {"name":"Kabupaten Aceh Tenggara","province":"Mzl7dxVfJALbbdCt","_id":"asju4uDCaHYTOAvA"}
 {"name":"Kabupaten Fakfak","province":"zVQYSVPdHi0DBOVq","_id":"azSTHq5gz21yPvXu"}
@@ -256,6 +267,7 @@
 {"name":"Kabupaten Bekasi","province":"zQHlUSQECqDHeWp4","_id":"bKgzOV5UKAZGRHaC"}
 {"name":"Kabupaten Aceh Barat","province":"Mzl7dxVfJALbbdCt","_id":"bSMkm8KTBsVJ9Fvj"}
 {"name":"Kabupaten Maluku Tengah","province":"YcX4zmam6srfMvS8","_id":"bZZNLZDfBItYUJ7t"}
+{"name":"Kabupaten Bolaang Mongondow","province":"3xNRvI0qtnHJVC9X","_id":"bdJiA2b2MphwwCkG"}
 {"name":"Kota Sungai Penuh","province":"6Wn6e2j5QbrsL0QT","_id":"c8omEFn2H6ZqCMSU"}
 {"name":"Kota Kendari","province":"AdlTUE0zejE4Gg7q","_id":"cG4KEKuJvJ0EubF6"}
 {"name":"Kabupaten Puncak","province":"1EZPLzKdwsbn2vgu","_id":"cJ7aUiKzH19Zmziy"}
@@ -301,6 +313,7 @@
 {"name":"Kabupaten Kutai Kartanegara","province":"7hQevGl17Tst02Cg","_id":"hicyUXRejXyG05uw"}
 {"name":"Kabupaten Pangkajene dan Kepulauan","province":"w2HI3iuwJDQu9ZRc","_id":"hp34s8yls9bcW5l6"}
 {"name":"Kabupaten Dogiyai","province":"1EZPLzKdwsbn2vgu","_id":"i8ibcn5FcZG3pMRR"}
+{"name":"Kabupaten Bolaang Mongondow Selatan","province":"3xNRvI0qtnHJVC9X","_id":"iFyHbRzxAJCsDEnS"}
 {"name":"Kota Subulussalam","province":"Mzl7dxVfJALbbdCt","_id":"iMzJNgVHNJoaljxO"}
 {"name":"Kabupaten Gowa","province":"w2HI3iuwJDQu9ZRc","_id":"iQBukEoR66o0anLB"}
 {"name":"Kota Blitar","province":"B5HEAdevrS8b4eDL","_id":"iVkTk69P048369UE"}
@@ -312,6 +325,7 @@
 {"name":"Kabupaten Polewali Mandar","province":"YZOrGlNOk2xN3Fsg","_id":"jCmXw8sVsASFIEbX"}
 {"name":"Kabupaten Tabalong","province":"9vb4axrAymIe070W","_id":"jE7RCcQMa6KgxdFR"}
 {"name":"Kabupaten Maluku Tenggara","province":"YcX4zmam6srfMvS8","_id":"jH73aNPms7ECH9dg"}
+{"name":"Kota Kotamobagu","province":"3xNRvI0qtnHJVC9X","_id":"jHqiyRw1QXsYcJ02"}
 {"name":"Kabupaten Gunung Mas","province":"KujF9SPaBI2ErKcO","_id":"jLuSyvOaAV3IIoM1"}
 {"name":"Kabupaten Teluk Wondama","province":"zVQYSVPdHi0DBOVq","_id":"jQ86m1AVnkk8MqaO"}
 {"name":"Kabupaten Purworejo","province":"SnCJ0s1dVIO7tL0a","_id":"jhsaEMW5LhG802O8"}
@@ -379,6 +393,7 @@
 {"name":"Kabupaten Barito Utara","province":"KujF9SPaBI2ErKcO","_id":"sdQdEIskTRqIo0mV"}
 {"name":"Kabupaten Lombok Timur","province":"G0DRddtZHYqiT7Dx","_id":"sirIL9Gtv1Gmiv5T"}
 {"name":"Kota Lhokseumawe","province":"Mzl7dxVfJALbbdCt","_id":"sivI6QQN6EEy3dKo"}
+{"name":"Kabupaten Bolaang Mongondow Utara","province":"3xNRvI0qtnHJVC9X","_id":"sztpEn2hjsxwZR1D"}
 {"name":"Kota Administrasi Jakarta Selatan","province":"uo4wk5J9IK3FVLkW","_id":"t8pLY2xFYF1ZsfGy"}
 {"name":"Kabupaten Kepulauan Yapen","province":"1EZPLzKdwsbn2vgu","_id":"tE2TFkADzJ7SsjOf"}
 {"name":"Kabupaten Mamuju Tengah","province":"YZOrGlNOk2xN3Fsg","_id":"tRGFVHR4vaSk3knv"}
@@ -423,18 +438,22 @@
 {"name":"Kabupaten Tulang Bawang Barat","province":"Ji7Y783A3K3pmsXn","_id":"zqDzCnfExf4xQPue"}
 {"name":"Kabupaten Banyuwangi","province":"B5HEAdevrS8b4eDL","_id":"zuG1Ygzy3PlmpXYc"}
 {"name":"Kabupaten Pulang Pisau","province":"KujF9SPaBI2ErKcO","_id":"zxnFtHTHw7zoDYvf"}
-{"name":"Kabupaten Bolaang Mongondow","province":"3xNRvI0qtnHJVC9X","_id":"bdJiA2b2MphwwCkG"}
-{"name":"Kabupaten Bolaang Mongondow Selatan","province":"3xNRvI0qtnHJVC9X","_id":"iFyHbRzxAJCsDEnS"}
-{"name":"Kabupaten Bolaang Mongondow Timur","province":"3xNRvI0qtnHJVC9X","_id":"HKrlknPGi6rIbyHK"}
-{"name":"Kabupaten Bolaang Mongondow Utara","province":"3xNRvI0qtnHJVC9X","_id":"sztpEn2hjsxwZR1D"}
-{"name":"Kabupaten Kepulauan Sangihe","province":"3xNRvI0qtnHJVC9X","_id":"HHLmkp2w2ZQVRZ00"}
-{"name":"Kabupaten Kepulauan Siau Tagulandang Biaro","province":"3xNRvI0qtnHJVC9X","_id":"WSucLEibytXl2Tcy"}
-{"name":"Kabupaten Kepulauan Talaud","province":"3xNRvI0qtnHJVC9X","_id":"3NqOxtO5e1gLcsqA"}
-{"name":"Kabupaten Minahasa","province":"3xNRvI0qtnHJVC9X","_id":"VbFenYsuTPUFOyww"}
-{"name":"Kabupaten Minahasa Selatan","province":"3xNRvI0qtnHJVC9X","_id":"anPzMTYL9opQDNMo"}
-{"name":"Kabupaten Minahasa Tenggara","province":"3xNRvI0qtnHJVC9X","_id":"PTKmvyz3NexTkXH5"}
-{"name":"Kabupaten Minahasa Utara","province":"3xNRvI0qtnHJVC9X","_id":"MC7bNuK33yzvTgbM"}
-{"name":"Kota Bitung","province":"3xNRvI0qtnHJVC9X","_id":"XzX6199E95yk13SH"}
-{"name":"Kota Kotamobagu","province":"3xNRvI0qtnHJVC9X","_id":"jHqiyRw1QXsYcJ02"}
-{"name":"Kota Manado","province":"3xNRvI0qtnHJVC9X","_id":"RYq7P0wGnSiBRTSL"}
-{"name":"Kota Tomohon","province":"3xNRvI0qtnHJVC9X","_id":"F2WxpHUdhpNB0XCd"}
+{"name":"Kabupaten Agam","province":"gJ9NAzWT0adaxqcp","_id":"CsZ4959x3w0dvlBs"}
+{"name":"Kabupaten Dharmasraya","province":"gJ9NAzWT0adaxqcp","_id":"K29nuYsfpDYDcQo1"}
+{"name":"Kabupaten Kepulauan Mentawai","province":"gJ9NAzWT0adaxqcp","_id":"HzFuQ9ElVNbIEAOB"}
+{"name":"Kabupaten Lima Puluh Kota","province":"gJ9NAzWT0adaxqcp","_id":"3LygLjr7dyZgvRBC"}
+{"name":"Kabupaten Padang Pariaman","province":"gJ9NAzWT0adaxqcp","_id":"GcGWtQ3fOofa6U6N"}
+{"name":"Kabupaten Pasaman","province":"gJ9NAzWT0adaxqcp","_id":"vtN4Cl60ScEBx7Jz"}
+{"name":"Kabupaten Pasaman Barat","province":"gJ9NAzWT0adaxqcp","_id":"WGx2JYba0ZSxGnCS"}
+{"name":"Kabupaten Pesisir Selatan","province":"gJ9NAzWT0adaxqcp","_id":"egIvFcNh4bIw9Rqy"}
+{"name":"Kabupaten Sijunjung","province":"gJ9NAzWT0adaxqcp","_id":"o21c2XhcKoCwNzNr"}
+{"name":"Kabupaten Solok","province":"gJ9NAzWT0adaxqcp","_id":"ZNTBkgfBfKKsWHwE"}
+{"name":"Kabupaten Solok Selatan","province":"gJ9NAzWT0adaxqcp","_id":"XKtUURPCvrAuiQPa"}
+{"name":"Kabupaten Tanah Datar","province":"gJ9NAzWT0adaxqcp","_id":"a7LuyA6S32ycr3VE"}
+{"name":"Kota Bukittinggi","province":"gJ9NAzWT0adaxqcp","_id":"iRRvVSALPuI8D2tM"}
+{"name":"Kota Padang","province":"gJ9NAzWT0adaxqcp","_id":"7j1eJezIsObpjha9"}
+{"name":"Kota Padangpanjang","province":"gJ9NAzWT0adaxqcp","_id":"kNC8ABhL1ALoDHfE"}
+{"name":"Kota Pariaman","province":"gJ9NAzWT0adaxqcp","_id":"SBLdRpRAFs5YrMKM"}
+{"name":"Kota Payakumbuh","province":"gJ9NAzWT0adaxqcp","_id":"s2g3tqqOsojVIcMl"}
+{"name":"Kota Sawahlunto","province":"gJ9NAzWT0adaxqcp","_id":"GSiXt7fjkJ5qMQV4"}
+{"name":"Kota Solok","province":"gJ9NAzWT0adaxqcp","_id":"SQk5zUlIqJdWmvDp"}
