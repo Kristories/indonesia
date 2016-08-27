@@ -81,9 +81,9 @@ indonesia.getProvince('aceh', true, function(province){
   - [x] Yogyakarta
 
 #### City / Regency
-- [ ] Get all cities / regencies
+- [x] Get all cities / regencies
 - [ ] Search cities / regencies
-- [ ] Get cities / regencies by name
+- [x] Get cities / regencies by name
 
 #### Subdistrict (?)
 

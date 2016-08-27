@@ -98,3 +98,61 @@ exports.searchProvince = (name, callback) => {
     callback(err);
   });
 };
+
+/**
+ * Get cities and regencies
+ * @param  {Function} callback
+ * @return {Array}
+ */
+exports.getCities = (callback) => {
+  connect(uriConnection).then(function(db) {
+    var res   = [];
+    database  = db;
+
+    CityModel.find({}, { populate : true }).then(function(p) {
+      async.eachOf(p, function(value, key, cb) {
+        var pr      = _.pick(value, 'province');
+        var ci      = _.pick(value, 'name');
+        ci.province = pr.province.name;
+
+        res.push(ci);
+        cb();
+      }, function(err) {
+        callback(_.chain(res).sortBy('name').sortBy('province').value());
+      });
+    }).catch(err => {
+      callback(err);
+    });
+  }).catch(err => {
+    callback(err);
+  });
+};
+
+/**
+ * Get city or regency by name
+ * @param  {String}   name
+ * @param  {Function} callback
+ * @return {Object}
+ */
+exports.getCity = (name, callback) => {
+  connect(uriConnection).then(function(db) {
+    database  = db;
+    var query = {
+      name : {
+        $regex : new RegExp("^" + name.toLowerCase(), "i")
+      }
+    };
+
+    CityModel.findOne(query, { populate : true }).then(function(p) {
+      var pr      = _.pick(p, 'province');
+      var ci      = _.pick(p, 'name');
+      ci.province = pr.province.name;
+
+      callback(ci);
+    }).catch(err => {
+      callback(err);
+    });
+  }).catch(err => {
+    callback(err);
+  });
+};
