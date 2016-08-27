@@ -51,10 +51,15 @@ exports.getProvince = (name, withCities, callback) => {
   }
 
   connect(uriConnection).then(function(db) {
-    var cities  = [];
     database    = db;
+    var cities  = [];
+    var query = {
+      name : {
+        $regex : new RegExp('^'+ name.toLowerCase() + '$', 'i')
+      }
+    };
 
-    ProvinceModel.findOne({ name : new RegExp(name, 'i') }).then(function(p) {
+    ProvinceModel.findOne(query).then(function(p) {
       if(withCities){
         CityModel.find({ province: p._id }, { populate : false }).then(function(c) {
           async.eachOf(c, function(value, key, cb) {
@@ -83,10 +88,13 @@ exports.getProvince = (name, withCities, callback) => {
  */
 exports.searchProvince = (name, callback) => {
   connect(uriConnection).then(function(db) {
-    var res     = [];
-    database    = db;
+    database  = db;
+    var res   = [];
+    var query = {
+      name : new RegExp(name, 'i')
+    };
 
-    ProvinceModel.find({ name : new RegExp(name, 'i') }, { populate : false }).then(function(p) {
+    ProvinceModel.find(query, { populate : false }).then(function(p) {
       async.eachOf(p, function(value, key, cb) {
         res.push(_.pick(value, 'name', 'iso'));
         cb();
@@ -139,16 +147,20 @@ exports.getCity = (name, callback) => {
     database  = db;
     var query = {
       name : {
-        $regex : new RegExp("^" + name.toLowerCase(), "i")
+        $regex : new RegExp('^'+ name.toLowerCase() + '$', 'i')
       }
     };
 
     CityModel.findOne(query, { populate : true }).then(function(p) {
-      var pr      = _.pick(p, 'province');
-      var ci      = _.pick(p, 'name');
-      ci.province = pr.province.name;
+      if(p){
+        var pr      = _.pick(p, 'province');
+        var ci      = _.pick(p, 'name');
+        ci.province = pr.province.name;
 
-      callback(ci);
+        callback(ci);
+      } else {
+        callback({});
+      }
     }).catch(err => {
       callback(err);
     });
