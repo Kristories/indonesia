@@ -60,19 +60,23 @@ exports.getProvince = (name, withCities, callback) => {
     };
 
     ProvinceModel.findOne(query).then(function(p) {
-      if(withCities){
-        CityModel.find({ province: p._id }, { populate : false }).then(function(c) {
-          async.eachOf(c, function(value, key, cb) {
-            cities.push(_.pick(value, 'name'));
-            cb();
-          }, function(err) {
-            p.cities = _.sortBy(cities, 'name');
-            callback(_.pick(p, 'name', 'iso', 'cities'));
+      if(p){
+        if(withCities){
+          CityModel.find({ province: p._id }, { populate : false }).then(function(c) {
+            async.eachOf(c, function(value, key, cb) {
+              cities.push(_.pick(value, 'name'));
+              cb();
+            }, function(err) {
+              p.cities = _.sortBy(cities, 'name');
+              callback(_.pick(p, 'name', 'iso', 'cities'));
+            });
           });
-        });
-      }
-      else {
-        callback(_.pick(p, 'name', 'iso'));
+        }
+        else {
+          callback(_.pick(p, 'name', 'iso'));
+        }
+      } else {
+        callback({});
       }
     });
   }).catch(err => {
