@@ -172,3 +172,34 @@ exports.getCity = (name, callback) => {
     callback(err);
   });
 };
+
+/**
+ * Search city or regency
+ * @param  {String}   name
+ * @param  {Function} callback
+ * @return {Array}
+ */
+exports.searchCity = (name, callback) => {
+  connect(uriConnection).then(function(db) {
+    database  = db;
+    var res   = [];
+    var query = {
+      name : new RegExp(name, 'i')
+    };
+
+    CityModel.find(query, { populate : true }).then(function(p) {
+      async.eachOf(p, function(value, key, cb) {
+        var pr      = _.pick(value, 'province');
+        var ci      = _.pick(value, 'name');
+        ci.province = pr.province.name;
+
+        res.push(ci);
+        cb();
+      }, function(err) {
+        callback(_.chain(res).sortBy('name').sortBy('province').value());
+      });
+    });
+  }).catch(err => {
+    callback(err);
+  });
+};

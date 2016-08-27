@@ -2,6 +2,9 @@
 
 > Territories of Indonesia
 
+[![NPM Version](https://img.shields.io/npm/v/indonesia.svg?maxAge=2592000)](https://www.npmjs.com/package/indonesia)
+[![NPM Downloads](https://img.shields.io/npm/dt/indonesia.svg?maxAge=2592000)](https://www.npmjs.com/package/indonesia)
+
 - **34** Provinces
 - **416** Regencies
 - **98** Cities
@@ -19,23 +22,38 @@ $ npm install --save indonesia
 var indonesia = require('indonesia');
 
 // Get all provinces
-indonesia.getProvinces(function(provinces){
-  console.log(provinces);
-});
-
-// Search province
-indonesia.searchProvince(function(provinces){
-  console.log(provinces);
+indonesia.getProvinces(function(res){
+  console.log(res);
 });
 
 // Get province by name
-indonesia.getProvince('aceh', function(province){
-  console.log(province);
+indonesia.getProvince('aceh', function(res){
+  console.log(res);
 });
 
-// Get province by name (include cities / regencies)
-indonesia.getProvince('aceh', true, function(province){
-  console.log(province);
+// Get province by name (include cities and regencies)
+indonesia.getProvince('aceh', true, function(res){
+  console.log(res);
+});
+
+// Search province
+indonesia.searchProvince('riau', function(res){
+  console.log(res);
+});
+
+// Get all cities and regencies
+indonesia.getCities(function(res){
+  console.log(res);
+});
+
+// Get city or regency by name
+indonesia.getCity('kota ADMINISTRASI jAkArtA SElataN', function(res){
+  console.log(res);
+});
+
+// Search city or regency
+indonesia.searchCity('kota Bek', function(res){
+  console.log(res);
 });
 ```
 
@@ -82,7 +100,7 @@ indonesia.getProvince('aceh', true, function(province){
 
 #### City / Regency
 - [x] Get all cities / regencies
-- [ ] Search cities / regencies
+- [x] Search cities / regencies
 - [x] Get cities / regencies by name
 
 #### Subdistrict (?)
