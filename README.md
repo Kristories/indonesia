@@ -100,8 +100,8 @@ indonesia.searchCity('kota Bek', function(res){
 
 #### City / Regency
 - [x] Get all cities / regencies
-- [x] Search cities / regencies
-- [x] Get cities / regencies by name
+- [x] Search city / regency
+- [x] Get city / regency by name
 
 #### Subdistrict (?)
 
