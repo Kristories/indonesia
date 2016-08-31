@@ -25,6 +25,11 @@
     "nedb": "^1.8.0",
     "underscore": "^1.8.3"
   },
-  "devDependencies": {},
-  "scripts": {}
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
 }
