@@ -12,8 +12,8 @@
 
 ## Installation
 
-```js
-$ npm install --save indonesia
+```cli
+npm install --save indonesia
 ```
 
 ### Usage
